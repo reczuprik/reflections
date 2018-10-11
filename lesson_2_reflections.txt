@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+könyvtár tartalmához elkészíti a git mappát, innentől fog működni a verzió követés
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area: csak azok a fájlok kerülnek bele, amikre majd a közös commitot akarjuk megcsinálni
