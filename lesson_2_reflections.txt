@@ -17,4 +17,7 @@ olyan módosítás ami esetleg nem végleges/nem kell mindenhová. így két kü
 How do the diagrams help you visualize the branch structure?
 látni sorban a commitokat, és hogy a branchek hol válnak szát, (függőleges vonal)
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+két változtatás egy ágon folytatódik. és közösek lesznek azért mennek egy pontban tovább.
+
 
