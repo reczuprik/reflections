@@ -14,3 +14,7 @@ What are some situations when branches would be helpful in keeping your history 
 olyan módosítás ami esetleg nem végleges/nem kell mindenhová. így két külön ágon tud futni a két programverzió
 
 
+How do the diagrams help you visualize the branch structure?
+látni sorban a commitokat, és hogy a branchek hol válnak szát, (függőleges vonal)
+
+
