@@ -4,3 +4,13 @@ könyvtár tartalmához elkészíti a git mappát, innentől fog működni a ver
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 staging area: csak azok a fájlok kerülnek bele, amikre majd a közös commitot akarjuk megcsinálni
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+git diff ->látni milyen változás volt stage és a working directoryban
+git diff --staged -->stage vs commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+olyan módosítás ami esetleg nem végleges/nem kell mindenhová. így két külön ágon tud futni a két programverzió
+
+
