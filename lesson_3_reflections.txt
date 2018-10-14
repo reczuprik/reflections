@@ -3,3 +3,8 @@ csapat munkában dolgozáskor, vagy távoli elérés miatt
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 csak azok a módosítások kerüljenek fel amit én akarok
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+fork: clone a githubon belül -> egyszerűsítés más repositoriának lemásolására és githubon hsználatára
+clone->meglévő repository másolása minden adatával együtt
+branch: hát ennek nem sok köze van szerintem a msik kettőhöz.
