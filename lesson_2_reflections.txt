@@ -1,4 +1,4 @@
-What happens when you initialize a repository? Why do you need to do it?
+﻿What happens when you initialize a repository? Why do you need to do it?
 könyvtár tartalmához elkészíti a git mappát, innentől fog működni a verzió követés
 
 
@@ -20,4 +20,6 @@ látni sorban a commitokat, és hogy a branchek hol válnak szát, (függőleges
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 két változtatás egy ágon folytatódik. és közösek lesznek azért mennek egy pontban tovább.
 
-
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pro->egy csomó munkát megspórol
+cons->nem mindig tudja mit kell csinálni okoz kis extra melót
