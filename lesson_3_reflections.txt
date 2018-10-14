@@ -8,3 +8,6 @@ Describe the differences between forks, clones, and branches. When would you use
 fork: clone a githubon belül -> egyszerűsítés más repositoriának lemásolására és githubon hsználatára
 clone->meglévő repository másolása minden adatával együtt
 branch: hát ennek nem sok köze van szerintem a msik kettőhöz.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+tudjuk miből kezdtünk el módosítani
