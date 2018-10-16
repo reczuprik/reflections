@@ -11,3 +11,7 @@ branch: hát ennek nem sok köze van szerintem a msik kettőhöz.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 tudjuk miből kezdtünk el módosítani
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+nehezebb: mindenki egy fájlban dolgozik nehéz az összehasonlítás ki mit mikor és miért adott hozzá
+könnyebb: esetleg a személyes közös munka több
