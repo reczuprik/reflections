@@ -15,3 +15,6 @@ tudjuk miből kezdtünk el módosítani
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 nehezebb: mindenki egy fájlban dolgozik nehéz az összehasonlítás ki mit mikor és miért adott hozzá
 könnyebb: esetleg a személyes közös munka több
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+új featureok bevezetése/a stabil verziót közben megtartani. amin másik mást tudnak egy külön branchen bevezetni.
